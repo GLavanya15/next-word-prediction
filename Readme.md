@@ -1,4 +1,4 @@
-#📚 Next Word Prediction using LSTM
+# 📚 Next Word Prediction using LSTM
 This project demonstrates a Next Word Prediction model built using LSTM (Long Short-Term Memory) networks in TensorFlow/Keras. The model is trained on the complete text of Jane Austen's Pride and Prejudice — a rich and structured literary dataset ideal for learning the contextual patterns of the English language.
 
 🗂 Dataset
